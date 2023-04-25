@@ -1,1 +1,2 @@
-# tooeen-workshop-01
+# ifcjs-presentation
+Introductory presentation about IFC.js
